@@ -1,6 +1,6 @@
 # Responsive design
 
-Refer to this [link](https://#)(see 'Dark version') and create a similar webpage
+Refer to this [link](https://pallavi000.github.io/fs16_2-responsive-design)(see 'Dark version') and create a similar webpage
 
 ## Requirements
 
